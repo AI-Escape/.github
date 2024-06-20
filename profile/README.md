@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://link-to-your-URL/](https://consulting.aiescape.io/">
+  <a href="https://consulting.aiescape.io/" target="_blank">
     <img src="https://cdn.aiescape.io/logo.svg" alt="AI Escape Consulting" width="30%">
   </a>
 </div>
