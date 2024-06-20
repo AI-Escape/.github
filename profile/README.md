@@ -3,6 +3,7 @@
     <img src="https://cdn.aiescape.io/logo.svg" alt="AI Escape Consulting" width="30%">
   </a>
 </div>
+
 # AI Escape Consulting
 
 Welcome to AI Escape Consulting! We specialize in integrating Artificial Intelligence into business processes to drive growth and innovation. Our services include AI strategy, AI implementation, AI training, and custom AI software solutions.
