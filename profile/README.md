@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://cdn.aiescape.io/consulting-box.png" alt="AI Escape Consulting" target="https://consulting.aiescape.io/" style="max-width: 200px;">
+</div>
+
 # AI Escape Consulting
 
 Welcome to AI Escape Consulting! We specialize in integrating Artificial Intelligence into business processes to drive growth and innovation. Our services include AI strategy, AI implementation, AI training, and custom AI software solutions.
@@ -25,4 +29,3 @@ Ready to take your business to the next level with AI? Visit our [website](https
 
 Thank you for visiting our GitHub profile. We look forward to working with you!
 
-![AI Escape Consulting](https://cdn.aiescape.io/consulting-box.png)
