@@ -1,5 +1,8 @@
-[<div align="center"><img src="https://cdn.aiescape.io/logo.svg" alt="AI Escape Consulting" href="" width="50%"></div>]([https://link-to-your-URL/](https://consulting.aiescape.io/))
-
+<div align="center">
+  <a href="https://link-to-your-URL/](https://consulting.aiescape.io/">
+    <img src="https://cdn.aiescape.io/logo.svg" alt="AI Escape Consulting" width="30%">
+  </a>
+</div>
 # AI Escape Consulting
 
 Welcome to AI Escape Consulting! We specialize in integrating Artificial Intelligence into business processes to drive growth and innovation. Our services include AI strategy, AI implementation, AI training, and custom AI software solutions.
