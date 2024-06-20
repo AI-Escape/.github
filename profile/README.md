@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.aiescape.io/consulting-box.png" alt="AI Escape Consulting" target="https://consulting.aiescape.io/" style="max-width: 100px;">
+  <img src="https://cdn.aiescape.io/consulting-box.png" alt="AI Escape Consulting" href="https://consulting.aiescape.io/" width="50%">
 </div>
 
 # AI Escape Consulting
