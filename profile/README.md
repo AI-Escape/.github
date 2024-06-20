@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://cdn.aiescape.io/consulting-box.png" alt="AI Escape Consulting" href="https://consulting.aiescape.io/" width="50%">
-</div>
+[<div align="center"><img src="https://cdn.aiescape.io/logo.svg" alt="AI Escape Consulting" href="" width="50%"></div>]([https://link-to-your-URL/](https://consulting.aiescape.io/))
 
 # AI Escape Consulting
 
